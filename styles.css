@@ -22,3 +22,10 @@ h2{
 	margin-right:auto;
 	width:max-content;
 }
+ul{
+	list-style-type: none;
+	padding:5px;
+}
+a{
+	text-decoration-line:none;
+}
